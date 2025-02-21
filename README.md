@@ -1,7 +1,21 @@
-# Breast-Cancer-Detection
-A machine learning model that requires you to describe the features from a digitized image of a fine needle aspirate (FNA) of a breast mass.
-an classifies them as a Beningn or Malignant
-TechStack:
-pandas, numpy, matplotlib,seaborn,scikitlearn
-dataset:
-https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+# 🩺 Breast Cancer Detection using Machine Learning
+
+This project builds a **Machine Learning model** to classify breast tumors as **Benign (B)** or **Malignant (M)** based on features extracted from fine needle aspirate (FNA) images.
+
+## 📌 Dataset
+The dataset used is **Breast Cancer Wisconsin (Diagnostic) Data Set**, available on Kaggle:  
+[🔗 Kaggle Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+
+## 🛠 Tech Stack
+- **pandas** → Data handling & preprocessing
+- **numpy** → Numerical computations
+- **matplotlib & seaborn** → Data visualization
+- **scikit-learn** → Machine Learning Model
+
+---
+
+## 🚀 Installation and Setup
+### **1️⃣ Clone the Repository**
+```bash
+git clone https://github.com/your-username/Breast-Cancer-Detection.git
+cd Breast-Cancer-Detection
